@@ -1,0 +1,14 @@
+{
+  "serial_port": "/dev/ttyUSB0",
+  "slave_address": 1,
+  "baudrate": 9600,
+  "bytesize": 8,
+  "parity": "N",
+  "stopbits": 1,
+  "timeout": 0.5,
+  "refresh_rate": 1,
+  "anomaly_voltage_high": 250,
+  "anomaly_voltage_low": 200,
+  "anomaly_current_high": 50,
+  "anomaly_power_high": 10000
+}
